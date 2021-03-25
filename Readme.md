@@ -8,8 +8,9 @@ The following activity was part of Unit 7 (“Database Design”) of Module 2 (�
 
 Given the following set of tables, for our property lettings example, develop a table structure that conforms to the third normal form (3NF).  
 
-### Existing table structure
-* Properties
+## Existing table structure
+
+### Properties
 * Street
 * Postcode
 * Type
